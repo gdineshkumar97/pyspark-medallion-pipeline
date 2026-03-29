@@ -1,0 +1,4 @@
+input_path: "/FileStore/input/sample.json"
+raw_path: "/FileStore/raw/"
+silver_path: "/FileStore/silver/"
+gold_path: "/FileStore/gold/"
